@@ -51,7 +51,7 @@ const Contact = () => {
                     <small>
                         Built and designed by{" "}
                         <a
-                            href="https://github.com/MrPiccolo23/"
+                            href="https://github.com/MrPiccolo23/Portfolio-website.git"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
