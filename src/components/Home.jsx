@@ -15,7 +15,7 @@ const Home = () => {
         items-center justify-center h-full px-4 md:flex-row '>
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>
-                    I'm a Junior Web & Software Developer 
+                    I'm a Junior Developer 
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
                 I'm Syed Sattar Naqvi, a passionate tech professional deeply invested in software and web development with 2 years of extensive experience.
